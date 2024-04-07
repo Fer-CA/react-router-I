@@ -1,0 +1,31 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    background-image: url(./assets/img/fondo.png);
+    
+}
+.homeContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #45B39D ;
+}
+
+.notFoundContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #45B39D ;
+}
+
+.contactoContainer {
+    color: #45B39D ;
+}
+
+.contactoContainer h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
